@@ -21,7 +21,7 @@
     "simple-get": "^3.0.1"
   },
   "devDependencies": {
-    "brfs": "^2.0.0",
+    "brfs": "^2.0.2",
     "standard": "*",
     "tape": "^4.0.0",
     "webtorrent-fixtures": "^1.0.0",
